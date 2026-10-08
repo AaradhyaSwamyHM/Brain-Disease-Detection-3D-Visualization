@@ -1,0 +1,6 @@
+tensorflow>=2.15,<2.18
+numpy>=1.24
+nibabel>=5.2
+scikit-image>=0.22
+matplotlib>=3.8
+pandas>=2.1
