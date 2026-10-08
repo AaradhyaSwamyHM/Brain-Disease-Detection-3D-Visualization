@@ -1,3 +1,6 @@
+<img width="1138" height="708" alt="Screenshot 2026-10-07 191904" src="https://github.com/user-attachments/assets/4570f859-bc63-460a-9659-5f548075f404" />
+<img width="1366" height="713" alt="Screenshot 2026-10-07 191547" src="https://github.com/user-attachments/assets/daac6ff8-bd40-4952-9585-72ccaff9b3fb" />
+<img width="1138" height="713" alt="Screenshot 2026-10-07 191749" src="https://github.com/user-attachments/assets/ccddcbf5-b0bd-4ef6-a2a7-fc8888e3a65c" />
 # BraTS MRI enhancement + 3D tumour segmentation
 
 This is a complete, TensorFlow project built from the supplied
